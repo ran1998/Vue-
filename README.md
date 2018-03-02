@@ -1,6 +1,8 @@
 # Vue
 vue.js 高仿饿了么
 
+https://ran1998.github.io/Vue-Element/elem/dist/index.html
+
 # VUE 搭建简介
 刚学习了VUE高仿饿了么app课,记录课的要点,巩固知识。
 
